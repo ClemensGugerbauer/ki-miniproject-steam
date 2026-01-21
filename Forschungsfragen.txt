@@ -1,0 +1,28 @@
+
+- Wie ändert sich das Verhältnis im Vergleich von den Peak-Spielern von damalas mit denen von heuten bei "Top 10 games z.B.".
+* Wann oder wie haben Spiel ihren Peak erreicht?
+
+- Wie ändert sich die Spieleranzahl, wenn ein neues Spiel rauskommt? (e.g. Forza Horizon 4 und dann kommt Forza Horizon 5)
+
+
+- Unterscheiden sich alte Klassiker von neuen Spielen hinsichtlich Peak-Dynamik?
+
+
+
+
+- Welche Spiele alten Spiele sind noch beliebt?
+- Vergleich zwischen Single und Multiplayer Games?
+- Steckt eine große Firma dahinter? (IP)
+
+- Sind hohe Wachstumsraten (gain_percent) nachhaltig oder meist kurzfristig?
+- Wie lange bleiben Spiele über einer bestimmten Popularitätsschwelle?
+
+
+
+- Welche Faktoren erklären langfristigen Erfolg am besten?
+
+
+
+
+- Wie stark korrelieren Average Players und Peak Players?
+- Sind hohe Wachstumsraten (gain_percent) nachhaltig oder meist kurzfristig?
